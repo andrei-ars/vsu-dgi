@@ -14,6 +14,13 @@ https://github.com/vsu-dgi/vsu-flask
 
 ## 4-ой курс
 
+### Презентации лекций
+
+https://github.com/andrei-ars/vsu-dgi/tree/main/course_4/lectures
+
+### Задания к лабораторным работам
+
+
 #### Пример на PyTorch: 
 
 https://github.com/vsu-dgi/vsu-pytorch
