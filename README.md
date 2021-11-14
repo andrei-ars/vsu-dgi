@@ -18,9 +18,7 @@ https://github.com/vsu-dgi/vsu-flask
 
 https://github.com/andrei-ars/vsu-dgi/tree/main/course_4/lectures
 
-### Задания к лабораторным работам
-
-# Лабораторная работа №3
+### Лабораторная работа 
 
 Задание:
 https://github.com/andrei-ars/vsu-dgi/blob/main/course_4/labs/LAB_3_NN.pdf
