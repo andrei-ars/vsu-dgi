@@ -23,7 +23,11 @@ https://github.com/andrei-ars/vsu-dgi/tree/main/course_4/lectures
 Задание:
 https://github.com/andrei-ars/vsu-dgi/blob/main/course_4/labs/LAB_3_NN.pdf
 
-Пример решения:
+Пример решения: 
 https://github.com/andrei-ars/vsu-dgi/blob/main/course_4/labs/mnist_example_2.py
 
+### Экзамен
+
+Вопросы к экзамену: 
+https://github.com/andrei-ars/vsu-dgi/blob/main/course_4/exam/exam_questions.pdf
 
