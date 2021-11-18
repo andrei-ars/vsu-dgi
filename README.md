@@ -26,6 +26,9 @@ https://github.com/andrei-ars/vsu-dgi/blob/main/course_4/labs/LAB_3_NN.pdf
 Пример решения: 
 https://github.com/andrei-ars/vsu-dgi/blob/main/course_4/labs/mnist_example_2.py
 
+Объяснение архитектуры свёрточных сетей: 
+https://programforyou.ru/poleznoe/convolutional-network-from-scratch-part-zero-introduction
+
 ### Экзамен
 
 Вопросы к экзамену: 
